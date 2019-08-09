@@ -1,0 +1,45 @@
+html{
+     width:auto;
+     margin:auto;
+     background-color:#030F06;
+     position: center;
+     }
+
+
+
+body {
+      background-color:#3F9F15;
+      border:double 20px;
+      padding: 25px;
+      family-font:courier;
+      text-align:center;}
+ul{
+	text-align:center;}
+
+h1{
+   color:black;
+   border-bottom;solid 2px;
+   text-align:center;
+   }
+
+p{
+  color:red;}
+
+.caption{
+	font-size:3px;
+	font-varient:small-caps;}
+
+img{
+	border-radius: 10px;
+	border: solid 3px white;
+	padding: 5px;
+	}
+
+table, td, th {
+  border: 0px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}

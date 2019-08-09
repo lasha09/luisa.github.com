@@ -1,0 +1,37 @@
+html{
+     width:800;
+     margin:auto;
+     background-color:blue;
+     position: center;
+     }
+
+
+
+body {
+      background-color:chartreuse;
+      border:double 10px;
+      padding: 20px;
+      family-font:verdana;
+      text-align:center;}
+ul{
+	text-align:center;}
+
+h1{
+   color:black;
+   border-bottom;solid 2px;
+   text-align:center;
+   }
+
+p{
+  color:red;}
+
+.caption{
+	font-size:3px;
+	font-varient:small-caps;}
+
+img{
+	border-radius: 10px;
+	border: solid 3px white;
+	padding: 5px;
+	float:right:margin;}
+
